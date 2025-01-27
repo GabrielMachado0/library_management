@@ -1,4 +1,4 @@
-# library_management
+# Gestao de Biblioteca
 Sistema para controle de livros com autenticacao de usuario utilizando Python + PyQt5 + Postgresql
 
 Sistema criado em pro da realizacao e entrega de trabalho para faculdade. O sistema esta sujeito a alteracao e tambem a falhas. Caso encontre algo que ira aprimorar o sistema solicito que entre em contato.
