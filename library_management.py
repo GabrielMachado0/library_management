@@ -1,9 +1,11 @@
+# Instalar as bibliotecas PyQt5, psycopg2, bcrypt
+
 from PyQt5 import uic, QtWidgets
 from time import sleep
 import psycopg2
 import bcrypt
 
-db = "host='localhost' dbname='library_management' user='postgres' password='209701'"
+db = "host='localhost' dbname='library_management' user='postgres' password='password da tua DB'"
 username = None
 
 # Function to login in the app
@@ -664,3 +666,5 @@ login.show()
 # Open Program
 
 app.exec_()
+
+# Codigo produzido por Gabriel H. B. Machado
